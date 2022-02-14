@@ -12,9 +12,11 @@ birth and date hired, making sure there are no duplicates, and ordering the data
 are 90,398 employees retiring.
 
 In the image below you can see the breakdown of the employees retiring by job title.
+
 ![retirement_eligible](https://github.com/layalacordero/Pewlett_Hackard_Analysis/blob/main/Resources/retirement_eligible.png)
 
 In this other image you can see the number of people eligible for mentorship by job
+
 ![mentorship_eligible](https://github.com/layalacordero/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_eligible.png)
 
 
